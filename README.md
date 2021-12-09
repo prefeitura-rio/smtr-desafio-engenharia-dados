@@ -27,7 +27,7 @@ instância local do Prefect (em Python).
 ## Atenção
 
 - A solução do desafio deve estar num repositório público do Github
-- O link do repositório pode ser enviado até **13/12 (ter) às 23:59 (Brasília)**
+- O link do repositório pode ser enviado até **13/12 (seg) às 23:59 (Brasília)**
 - O código enviado será testado localmente, portanto
 organize e documente suas etapas
 
