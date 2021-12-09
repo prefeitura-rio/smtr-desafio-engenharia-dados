@@ -40,7 +40,7 @@ organize e documente suas etapas
    BRT](http://citgisbrj.tacom.srv.br:9977/gtfs-realtime-exporter/findAll/json)
    com os dados minuto a minuto
 3. Gerar CSV contendo 10 minutos de captura e subir para o
-   Google Cloud Storage (link do bucket no email) na mesma pipeline
+   Google Cloud Storage (link do bucket no email)
 4. (_extra_) Particionar tabela gerada da forma que achar mais conveniente
 5. (_extra_) Criar view no Google BigQuery a partir dos dados salvos no Storage
 
