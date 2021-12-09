@@ -35,7 +35,7 @@ organize e documente suas etapas
 
 1. Instalar e configurar o
    [Prefect Server](https://docs.prefect.io/orchestration/getting-started/install.html)
-   locamente com um [Docker Agent](https://docs.prefect.io/orchestration/agents/docker.html))
+   locamente com um [Docker Agent](https://docs.prefect.io/orchestration/agents/docker.html)
 2. Construir a pipeline de captura da [API do
    BRT](http://citgisbrj.tacom.srv.br:9977/gtfs-realtime-exporter/findAll/json)
    com os dados minuto a minuto
